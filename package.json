@@ -1,0 +1,22 @@
+{
+  "name": "electron-example",
+  "version": "1.0.0",
+  "description": "a simple electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezeswci/electron-example.git"
+  },
+  "author": "ezequiel wernicke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezeswci/electron-example/issues"
+  },
+  "homepage": "https://github.com/ezeswci/electron-example#readme",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
